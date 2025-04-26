@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bawerurek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JAVA 
+- 👀 I’m interested in software
+- 🌱 I’m currently learning FLUTTER DART 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ınstagram:Bawerurek  Linkedin: Baver ÜREK
 
