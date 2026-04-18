@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bawerurek
+- 👋 Hi, I’m @Bawerurekk
 - 👀 I’m interested in software
 - 🌱 I’m currently learning FLUTTER DART 
 - 📫 How to reach me ınstagram:bawerurekk  Linkedin: Baver ÜREK
